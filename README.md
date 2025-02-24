@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karol973
 - 👀 I’m interested in good food, some football, nice books... and some programming :)
-- 🌱 I’m currently learning and practising JS, TS, React, .NET.
+- 🌱 I’m currently learning and practising .NET, JS, TS, Vue, React.
 - 📫 Any questions? 
   contact me : przybyszkarol97@gmail.com
 
